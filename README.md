@@ -85,3 +85,33 @@ git add .
 git commit -m "Descrição"
 git push origin Main
 ```
+# citações
+
+```
+
+> uma boa documentação explica o objetivo, o uso e as limitações de um projeto.
+```
+> uma boa documentação explica o objetivo, o uso e as limitações de um projeto.
+
+# tabelas
+
+| Tecnologia | finalidade |
+| --- | --- |
+| git | controle de versões |
+|github | Hospedagem e colaborações|
+Markdown | Documentação
+
+| alinhamento à esquerda | alinhamento ao centro | alinhamento à direita
+| :--- | :---: | ---: |
+| texto | texto | texto|
+
+## imagens
+
+![Ghost agente](./imagens/ghost.jpg)
+
+![alan](https://tse2.mm.bing.net/th/id/OIP.vye-IMOS5ouptT3EAa9C8QHaD9?r=0&rs=1&pid=ImgDetMain&o=7&rm=3)
+
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
+![Git Badge](https://img.shields.io/badge/Git-F03C2E?logo=git&logoColor=fff&style=for-the-badge)
+
+![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=for-the-badge)
